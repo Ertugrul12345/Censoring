@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../drive-download-20241203T013915Z-001"
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	},
+	"settings": {
+		"files.associations": {
+			"why did the cow cross the road iii": "cpp"
+		}
+	}
+}
